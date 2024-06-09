@@ -1,14 +1,12 @@
 # SexAnnoDB
 
 #Sex-biased DNA mutation
+-Mutation_analysis.py
+-Mutation_Analysis.r
 
 #Sex-biased DNA Methylation
 
 #Sex-biased mRNA
-
-#Sex-biased miRNA
-
-#Sex-biased lncRNA
 
 #Sex-biased Exon skipping events
 
