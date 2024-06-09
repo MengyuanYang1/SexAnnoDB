@@ -10,26 +10,48 @@ https://ccsm.uth.edu/SexAnnoDB
 
 Resource	Identifier
 TCGA muti-omics data	https://portal.gdc.cancer.gov/
+
 RNA editing events	https://ccsm.uth.edu/CAeditome/
+
 Alternative splicing	https://gdc.cancer.gov/about-data/publications/PanCanAtlas-Splicing-2018
+
 Software and algorithms
+
 LncBase v3.0	https://diana.e-ce.uth.gr/lncbasev3
+
 maftools 3.19	https://bioconductor.org/packages/release/bioc/html/maftools.html
-GISTIC2.0	https://cloud.genepattern.org/gp/pages/index.jsf?lsid=urn:lsid:broad.mit.edu:cancer.software.genepattern.module.analysis:00125:6.15.30
+
+GISTIC2.0	https://cloud.genepattern.org/gp/pages/index.jsf?
+
+lsid=urn:lsid:broad.mit.edu:cancer.software.genepattern.module.analysis:00125:6.15.30
+
 GeoTcgaData	https://github.com/YuLab-SMU/GeoTcgaData
+
 miRTarBase 9.0	https://mirtarbase.cuhk.edu.cn/~miRTarBase/miRTarBase_2022/php/index.php
+
 miRDB 6.0	https://mirdb.org/
+
 TargetScan huam 8.0	https://www.targetscan.org/vert_80/
+
 CIS-BP 2.0	https://cisbp.ccbr.utoronto.ca/
+
 StringDB v11.5	https://string-db.org/
+
 CisBP-RNA 0.6	http://cisbp-rna.ccbr.utoronto.ca/
+
 FIMO 5.5.3	https://meme-suite.org/meme/doc/fimo.html
+
 netZooR 1.5.0	https://netzoo.github.io/netZooR/
+
 MatrixeQTL 2.3	https://cran.r-project.org/web/packages/MatrixEQTL/index.html
+
 DrugBank 5.0	https://go.drugbank.com/
+
 DisGeNET v7.0	https://www.disgenet.org/
+
 Enrichr	https://maayanlab.cloud/Enrichr/
-![image](https://github.com/MengyuanYang1/SexAnnoDB/assets/160446547/e0070777-ead1-48b1-ace5-765dbf019925)
+
+
 
 # Usage:
 
