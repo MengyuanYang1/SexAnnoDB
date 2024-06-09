@@ -1,5 +1,5 @@
 # SexAnnoDB
-figures/Figures1.png
+![Image text](https://github.com/MengyuanYang1/SexAnnoDB/blob/main/figures/Figures1.png)
 #Sex-biased DNA mutation
 
 -Mutation_analysis.py
