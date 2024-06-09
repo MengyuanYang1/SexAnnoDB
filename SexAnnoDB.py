@@ -2,16 +2,14 @@ import os,sys
 
 cancer_types  =  ['BRCA','KIRC','LUAD','LGG','THCA','HNSC','LUSC','SKCM','COAD','BLCA','STAD','LIHC','KIRP','SARC','PCPG','PAAD','READ','GBM','ESCA','LAML','THYM','MESO','UVM','ACC','KICH','DLBC','CHOL']
 
+
 def ProteinAnanlysis():
     import Proteindata_Ana as PA
     #PA.ProceessingPro()
     PA.DiffProAnalysis()
-
 def ASAnanlysis():
     import ASdata_anlaysis as AA
     AA.AS_diffalaysis()
-
-
 
 def EditingAnalysis():
     import Editing_anlaysis as EA
@@ -50,12 +48,6 @@ def QTLAnalysis(cancer_types):
     #SA.EX_position()
     #SA.GetsQTLinput_multip(cancer_types)
     #SA.sQTL_cmd()
-def MakeBed():
-    import makeBed as MB
-    #MB.GetGenePosition()
-    #MB.GetExonskippingPos()
-    #MB.GetEditingPos()
-    MB.makeBed()
 
 def Summary():
     import Gene_Summary as GS
@@ -103,22 +95,7 @@ def Summary():
     import SexGene as SG
     #SG.GeneIDtoSym()
 
-def Revise():
-    import Revise2024 as R
-    #R.DataSummary()
-    #R.QTLSummary()
-    #R.SignatureSummary()
-    #R.EditingSummary()
-    #R.DiffsigAna()
-    #R.TF_gene_diffedge()
-    #R.MethylationAndCodinggene()
-    #R.RBP_ES_PANDA()
-    #R.RBP_ES_PTBP1()
-    R.Cancer_Research_gene()
-
 def main():
-    #Mar 22
-    pass
     #ProteinAnanlysis()
     #ASAnanlysis()
     #EditingAnalysis()
@@ -126,9 +103,6 @@ def main():
     #MutationAnalysis(cancer_types)
     #QTLAnalysis(cancer_types)
     #Summary()
-    #MakeBed()
-    Revise()
-
 
 main()
 
