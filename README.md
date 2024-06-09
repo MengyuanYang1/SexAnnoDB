@@ -17,7 +17,7 @@
 
 #Sex-biased protein
 
-#Sex-biased DNA methylation affect gene expression
+#Sex-biased DNA methylation affects gene expression
 
 #Sex-biased sQTL
 
