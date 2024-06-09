@@ -3,13 +3,13 @@
 
 Usage:
 
-    python SexAnnoDB.py
+        python SexAnnoDB.py
 
 #Sex-biased DNA mutation
 
-  Mutation_analysis.py
+      Mutation_analysis.py
 
-  Rscript Mutation_Analysis.r
+      Rscript Mutation_Analysis.r
 
 #Sex-biased DNA Methylation
 
@@ -17,11 +17,11 @@ Usage:
 
 #Sex-biased Exon skipping events
   
-    AS_anlaysis.py
+        AS_anlaysis.py
 
 #Sex-biased RNA A-to-I editing
 
-    Editing_anlaysis.py
+        Editing_anlaysis.py
 
 #Sex-biased protein
 
