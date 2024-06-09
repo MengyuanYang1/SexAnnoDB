@@ -64,9 +64,7 @@ cancer_types  =  ['BRCA','KIRC','LUAD','LGG','THCA','HNSC','LUSC','SKCM','COAD',
 
       Rscript Mutation_Analysis.r
 
-#Sex-biased DNA Methylation
-
-#Sex-biased DNA methylation affects gene expression
+#Sex-biased DNA Methylation and Sex-biased DNA methylation affects gene expression
 
         Methyl_analysis.py 
 
