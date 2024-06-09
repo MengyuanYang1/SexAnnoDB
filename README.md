@@ -6,16 +6,15 @@ Here we built SexAnnoDB(A comprehensive sex annotation database in cancer) to pr
 
 https://ccsm.uth.edu/SexAnnoDB
 
-# Data and software
+# Data 
 
-Resource	Identifier
 TCGA muti-omics data	https://portal.gdc.cancer.gov/
 
 RNA editing events	https://ccsm.uth.edu/CAeditome/
 
 Alternative splicing	https://gdc.cancer.gov/about-data/publications/PanCanAtlas-Splicing-2018
 
-Software and algorithms
+# Software and algorithms
 
 LncBase v3.0	https://diana.e-ce.uth.gr/lncbasev3
 
