@@ -1,19 +1,27 @@
 # SexAnnoDB
 ![Image text](https://github.com/MengyuanYang1/SexAnnoDB/blob/main/figures/Figures1.png)
+
+Usage:
+
+python SexAnnoDB.py
+
 #Sex-biased DNA mutation
 
--Mutation_analysis.py
+  -Mutation_analysis.py
 
--Mutation_Analysis.r
-
+  -Mutation_Analysis.r
 
 #Sex-biased DNA Methylation
 
 #Sex-biased mRNA
 
 #Sex-biased Exon skipping events
+  
+    -AS_anlaysis.py
 
 #Sex-biased RNA A-to-I editing
+
+    -Editing_anlaysis.py
 
 #Sex-biased protein
 
