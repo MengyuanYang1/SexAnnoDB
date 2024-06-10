@@ -20,9 +20,7 @@ LncBase v3.0	https://diana.e-ce.uth.gr/lncbasev3
 
 maftools 3.19	https://bioconductor.org/packages/release/bioc/html/maftools.html
 
-GISTIC2.0	https://cloud.genepattern.org/gp/pages/index.jsf?
-
-lsid=urn:lsid:broad.mit.edu:cancer.software.genepattern.module.analysis:00125:6.15.30
+GISTIC2.0	https://cloud.genepattern.org/gp/pages/index.jsf?lsid=urn:lsid:broad.mit.edu:cancer.software.genepattern.module.analysis:00125:6.15.30
 
 GeoTcgaData	https://github.com/YuLab-SMU/GeoTcgaData
 
