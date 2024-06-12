@@ -50,8 +50,6 @@ def QTLAnalysis(cancer_types):
     #SA.sQTL_cmd()
 
 def Summary():
-    import Gene_Summary as GS
-    #GS.Gene_Summary()
     import DiffGene_summary as DS
     #DS.CodingGene_mut(cancer_types,'CodingGene')
     #DS.Coding_boxplot(cancer_types)
