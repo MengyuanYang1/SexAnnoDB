@@ -1,4 +1,4 @@
-gene	ENCFF025YLM	ENCFF032JQZ	ENCFF317AWM	ENCFF427IYE
+gene	con_1	con_2	con_3	con_4
 exon_skip_1	0.86	0.86	0.84	0.84
 exon_skip_392	0.89	0.82	0.94	0.85
 exon_skip_2	0.46	0.31	0.53	0.36
