@@ -8,7 +8,7 @@ def ProteinAnanlysis():
     #PA.ProceessingPro()
     PA.DiffProAnalysis()
 def ASAnanlysis():
-    import ASdata_anlaysis as AA
+    import AS_anlaysis as AA
     AA.AS_diffalaysis()
 
 def EditingAnalysis():
@@ -62,7 +62,7 @@ def Summary():
     import Proteindata_Ana as PA
     #PA.Protein(cancer_types)
     #PA.Proteinheatmap(cancer_types)
-    import ASdata_anlaysis as AA
+    import AS_anlaysis as AA
     #AA.ASSummary(cancer_types,'ASevents')
     #AA.ASheeatmap(cancer_types)
     import Editing_anlaysis as EA
